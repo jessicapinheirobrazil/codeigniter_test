@@ -10,7 +10,7 @@
 
 </script>
 
-<h2> News Archive </h2>
+<h2> News Archive</h2>
 
 <a href="/news/create" class="btn btn-primary mb-3">Create new</a>
 
